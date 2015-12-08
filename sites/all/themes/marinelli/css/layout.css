@@ -79,15 +79,17 @@ body,html{
 }
 
 #logo-container{ /* image logo container */
-	float:left;
+	float:none;
 	height:150px;
 	margin-right:10px;
 	margin-top: 0px;
+	text-align: center;
 }
 
 #title-slogan{ /* site title and slogan container */
-	float:left;
+	float:none;
 	margin-top:20px;
+	text-align: center;
 }
 
 #site-title,
