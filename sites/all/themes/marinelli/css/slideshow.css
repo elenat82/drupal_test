@@ -28,7 +28,7 @@ img.slide{
 
 #header-image-text{ /* image text container */
 	position: absolute;
-	bottom: 0px;
+	top: 0px;
 	left: 0px;
 	z-index: 9;
 	width: 100%;
@@ -96,11 +96,12 @@ img.slide{
 
 #header-image-title,
 #header-image-title a{ /* image title link color */
-	color:#d7d7d7;
+	color:#054b81;
 }
 
 #header-image-description a{ /* image description link color */
 	color:#898989;
+	font-style: italic!important;
 }
 
 #header-image-title a:hover,

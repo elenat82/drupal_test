@@ -79,12 +79,12 @@
 -------------------------------------------------------------- */
 	
 .rgba #header-image-text{
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(255, 255, 255, 0.8);
 }
 
-.boxshadow #header-image-title{
+/*.boxshadow #header-image-title{
 	text-shadow: rgba(10, 10, 10, 0.8) 2px 3px 3px;
-}
+}*/
 
 
 /*	Typography and other drupal items
